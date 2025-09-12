@@ -1,0 +1,16 @@
+{
+“GroupName": “Test-Group",
+“PolicyDocument": {
+“Statement”: [
+t
+"Action": [
+"s3:Get®",
+"s3:List®"
+1,
+“Resource”: "*",
+"Effect": "Allow"
++
+]
+3
+“PolicyName": "S3-ReadOnly-Policy”
+3

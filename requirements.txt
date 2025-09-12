@@ -1,0 +1,16 @@
+# File Parsing
+PyMuPDF
+pytesseract
+python-pptx
+openpyxl
+Pillow
+
+# Data Cleansing & NLP
+spacy
+opencv-python
+
+# AI Analysis (LLM)
+google-generativeai
+
+# Utilities
+python-dotenv

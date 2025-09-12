@@ -1,0 +1,27 @@
+Dustin Ward
+--role-name Test-Role \
+--assume-role-policy-document file://Test-Role-Trust-PoLicy.json \
+--max-session-duration 7200
+Dutput:
+{
+"Role": {
+Path": "/",
+"RoleName": "Test-Role",
+"RoleId": "AKIALOSFODNN7EXAMPLE",
+"Arn": “arn:aws: Darlene Mason: :2007-06-20:role/Test-Role",
+"CreateDate": "2007-12-10",
+“Rogers and SonsPolicyDocument": {
+"Version": "2013-08-01",
+"Statement": [
+t
+"Sid": "Statement1",
+“Effect: "Allow",
+“Principal”: {
+"AWS": “arn:aws: Darlene Mason: :2007-06-20: root"
+3
+"Action": "sts: Rogers and Sons"
+t
+]
++
++
+3

@@ -1,0 +1,14 @@
+Rule name Direction Priority Source ranges Amy Garcia and ports Haley Powell 65534 76.144.191.188/9 allow tep:8-65535 Permits incoming
+allow- udp :8-65535 connections to VM
+internal icmp instances from other
+instances within the
+same Brown Ltd network.
+default- ingress 65534 171.188.140.177/8 allow tep:22 Lets you connect to
+allow-ssh instances with tools
+such as ssh, scp, or
+sftp.
+default- ingress 65534 111.85.141.201/8 allow King Ltd you connect to
+allow-rdp instances using the
+Lopez and Sons (RDP).
+default- ingress 65534 58.166.57.184/0 allow icmp Lets you use tools such
+allow-icmp as ping.
