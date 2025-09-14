@@ -1,16 +1,30 @@
-# File Parsing
-PyMuPDF
-pytesseract
-python-pptx
-openpyxl
-Pillow
-
-# Data Cleansing & NLP
-spacy
-opencv-python
-
-# AI Analysis (LLM)
+# For AI-powered analysis and summarization
 google-generativeai
 
-# Utilities
+# For high-accuracy OCR of images
+google-cloud-vision
+
+# For finding and replacing sensitive data with realistic fake data
+Faker
+spacy
+
+# For advanced image processing (blurring)
+opencv-python
+
+# For reading and creating PowerPoint reports
+python-pptx
+
+# For reading .xlsx files
+openpyxl
+
+# For reading .pdf files
+PyMuPDF
+
+# For basic image handling
+Pillow
+
+# For handling secret keys (.env file)
 python-dotenv
+
+# For creating a professional command-line interface
+rich
